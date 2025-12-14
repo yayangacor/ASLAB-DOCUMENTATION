@@ -1,7 +1,9 @@
 ## ⏰ STRUKTUR WAKTU (Minggu, mulai jam 09.00)
 
 ```
-Setiap 1 jam listing progress kalian
+saat acq, kita bisa sambil hafalin trainee & trainer
+-LISTING PROGRESS DI EXCEL JAM 14:00, 16:00, 18:00!!! 
+
 07.00 - 09.00 Pembagian kelompok
 09.00 - 13.00 Ngerjain BP per kelompok sambil acq (4 jam)
 1 jam Riset
@@ -17,10 +19,9 @@ Setiap 1 jam listing progress kalian
 1 jam dokumentasi hasil
 
 19.00 - 20.00 Break Istirahat
-21.00 - 22.00 Pemerataan 2
+20.00 - 22.00 Pemerataan 2
 
-22.00 - 24.00 Pendalaman materi,persiapan present besok,dan SubCo
-24.00 - 4.00 Tidur
+22.00 - 00.00 Pendalaman subco, materi & persiapan present besok
 ```
 
 ---
