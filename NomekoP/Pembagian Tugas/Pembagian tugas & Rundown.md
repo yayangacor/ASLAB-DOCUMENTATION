@@ -1,6 +1,7 @@
 ## ⏰ STRUKTUR WAKTU (Minggu, mulai jam 09.00)
 
 ```
+Setiap 1 jam listing progress kalian
 07.00 - 09.00 Pembagian kelompok
 09.00 - 13.00 Ngerjain BP per kelompok sambil acq (4 jam)
 1 jam Riset
@@ -18,7 +19,8 @@
 19.00 - 20.00 Break Istirahat
 21.00 - 22.00 Pemerataan 2
 
-22.00 - 23.00 Pendalaman materi & persiapan present besok
+22.00 - 24.00 Pendalaman materi,persiapan present besok,dan SubCo
+24.00 - 4.00 Tidur
 ```
 
 ---
